@@ -1,7 +1,7 @@
 ---
 layout: "../layouts/Page.astro"
 title: "Doučování matematiky, které dává smysl"
-siteTitle: "Matika v nůžkách"
+siteTitle: "Matika v Nupakách"
 copyrightYear: 2026
 copyrightName: "Pavel Šimerda"
 copyrightUrl: "https://simerda.eu"
@@ -10,14 +10,8 @@ description: >-
   Pomáhám dětem a studentům porozumět matematice, najít v ní souvislosti a
   postupně získat jistotu při řešení úloh.
 sections:
-  - name: "Přístup"
-    url: "#pristup"
-  - name: "Nabídka"
-    url: "#nabidka"
   - name: "Místo"
     url: "#misto"
-  - name: "O mně"
-    url: "#o-mne"
   - name: "Kontakt"
     url: "#kontakt"
 ---
@@ -38,25 +32,12 @@ postupně s procvičováním.
   </div>
 </div>
 
-## <span id="pristup">Nejdřív porozumění</span>
+## Jak pracujeme
 
 Matematiku nevnímám jako soubor izolovaných triků. Společně hledáme, jak spolu
 jednotlivé věci souvisejí, proč určitý postup funguje a jak si při řešení
-vybudovat vlastní oporu.
-
-<p>
-  Nejdřív pochopení a porozumění. Potom procvičování. Rutina vzniká až jako
-  důsledek toho, že věcem opravdu rozumíme.
-</p>
-
-## <span id="nabidka">S čím můžeme pracovat</span>
-
-<ul>
-  <li><strong>Učivo, které ve škole nedává smysl</strong><br />Vrátíme se k základům, najdeme mezeru a vysvětlíme si látku jiným způsobem.</li>
-  <li><strong>Příprava na písemky a zkoušení</strong><br />Nejen projdeme typové příklady. Ujasníme si, co se v nich děje a jak poznat správný postup.</li>
-  <li><strong>Slovní úlohy a samostatné řešení</strong><br />Zaměříme se na porozumění zadání, práci s informacemi a kontrolu výsledku.</li>
-  <li><strong>Přijímací zkoušky a důležité přechody</strong><br />Postupně doplníme potřebné základy a získáme jistotu v tématech, která budou rozhodovat.</li>
-</ul>
+vybudovat vlastní oporu. Nejdřív přichází pochopení a porozumění, potom
+procvičování. Rutina vzniká až jako důsledek toho, že věcem opravdu rozumíme.
 
 ## <span id="misto">Výuka v Clubco Praha – Nupaky</span>
 
@@ -71,9 +52,7 @@ parkovacích míst zdarma. Pro rodiče to znamená praktické místo pro předá
 vyzvednutí, pro studenty profesionální prostředí, ve kterém se mohou soustředit
 na vlastní práci.
 
-<a class="button button-alt" href="https://clubco.cz/praha/">Podívat se na Clubco Praha</a>
-
-## <span id="o-mne">Kdo vás bude učit</span>
+## Kdo vás bude učit
 
 Jsem programátor a lektor, který se vzdělávání věnuje prakticky celý život.
 S doučováním jsem začal pomáhat spolužákům už na škole a k pravidelné placené
@@ -85,7 +64,7 @@ Zajímá mě, jak lidé přemýšlejí, kde se při učení ztrácejí a co jim 
 postavit se na vlastní nohy. Věřím, že dobrá výuka stojí na spolupráci,
 důvěře a možnosti ptát se bez obav.
 
-<a class="button button-alt" href="https://eduskills.cz/tym/grumpy/">Více o mém přístupu ke vzdělávání</a>
+Více o mém přístupu ke vzdělávání najdete na [EduSkills.cz](https://eduskills.cz/tym/grumpy/).
 
 ## <span id="kontakt">Začněme rozhovorem</span>
 
