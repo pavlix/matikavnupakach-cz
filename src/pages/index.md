@@ -28,15 +28,13 @@ sections:
   <div class="hero-text">
     <p class="hero-kicker">Doučování matematiky</p>
 
-    <h2>Matematika, které začneme rozumět.</h2>
+## Matematika, které začneme rozumět.
 
-    <p>
-      Pomáhám dětem a studentům najít v matematice systém, souvislosti a vlastní
-      způsob přemýšlení. Když látka začne dávat smysl, jistota a rutina přijdou
-      postupně s procvičováním.
-    </p>
+Pomáhám dětem a studentům najít v matematice systém, souvislosti a vlastní
+způsob přemýšlení. Když látka začne dávat smysl, jistota a rutina přijdou
+postupně s procvičováním.
 
-    <p><a class="button" href="#kontakt">Domluvit úvodní rozhovor</a></p>
+<a class="button" href="#kontakt">Domluvit úvodní rozhovor</a>
   </div>
 </div>
 
@@ -97,7 +95,7 @@ o situaci a domluvíme se na dalším postupu.
 
 <div class="contact-box">
 
-## Kontakt
+<p><strong>Kontakt</strong></p>
 
 <p><a href="mailto:teaching@simerda.eu">teaching@simerda.eu</a></p>
 
