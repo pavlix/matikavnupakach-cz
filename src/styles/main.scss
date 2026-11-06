@@ -1,23 +1,23 @@
 @use "../../vendor/web-common/src/styles/common" with (
   $accent-color: #1d1d1f,
-  $text-emphasis: #c59600,
+  $text-emphasis: #9b7100,
   $page-bg: #fbfaf4,
   $text-primary: #242426,
   $text-secondary: #555452,
-  $header-bg: #f2c419,
+  $header-bg: #d6a900,
   $text-on-dark: #1d1d1f,
   $text-on-dark-secondary: #1d1d1f
 );
 
 a.button,
 button.button {
-  border-color: #f2c419;
-  background-color: #f2c419;
+  border-color: #d6a900;
+  background-color: #d6a900;
   color: #1d1d1f;
 
   &:hover {
-    border-color: #d6a900;
-    background-color: #d6a900;
+    border-color: #b58900;
+    background-color: #b58900;
     color: #1d1d1f;
   }
 }
