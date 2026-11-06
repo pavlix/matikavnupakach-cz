@@ -10,8 +10,6 @@ description: >-
   Doučování matematiky v Nupakách. Společně hledáme souvislosti, porozumění a
   jistotu při řešení úloh.
 sections:
-  - name: "Lektor"
-    url: "#o-mne"
   - name: "Kontakt"
     url: "#kontakt"
 ---
@@ -58,20 +56,18 @@ Clubco je dobře dostupné z Prahy i okolí, leží u dálnice D1 a má parková
 zdarma. Pro rodiče je to praktické místo k předání a vyzvednutí, pro studenty
 prostředí, které podporuje samostatnou práci a soustředění.
 
-## <span id="o-mne">Kdo bude doučovat</span>
+## Výuka podle toho, co potřebujete
 
-Jsem Pavel Šimerda, programátor a lektor. Vzdělávání se věnuji prakticky celý
-život. S doučováním jsem začal pomáhat spolužákům už na škole a k pravidelné
-placené výuce jsem se dostal kolem roku 2001.
+Každý student přichází s jiným cílem, tempem i zkušeností. Někdo potřebuje
+vrátit jistotu v základech, jiný se připravuje na náročnou zkoušku a další chce
+matematiku používat ve studiu nebo v práci. Výuku přizpůsobíme tomu, kde právě
+jste a kam se chcete dostat.
 
-Od té doby jsem učil jednotlivce i skupiny, děti i dospělé, a podílel se na
-školních a vzdělávacích projektech. Do výuky přináším pohled člověka, který se
-pohybuje mezi technologiemi, školami a různými způsoby učení.
-
-Zajímá mě, jak lidé přemýšlejí, kde se při učení ztrácejí a co jim pomůže
-postavit se na vlastní nohy. Věřím, že dobrá výuka stojí na spolupráci,
-důvěře a možnosti ptát se bez obav. Více o mém přístupu ke vzdělávání najdete
+Za výukou stojí Pavel Šimerda, programátor a lektor, který se vzdělávání věnuje
+prakticky celý život. S doučováním začal kolem roku 2001 a od té doby učil
+jednotlivce i skupiny, děti i dospělé. Více o jeho přístupu ke vzdělávání najdete
 na [EduSkills.cz](https://eduskills.cz/tym/grumpy/).
+
 
 ## <span id="kontakt">Domluvme se</span>
 
