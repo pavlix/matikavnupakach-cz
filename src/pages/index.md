@@ -42,6 +42,11 @@ Tak se neučíme pouze správné kroky pro jeden typ úlohy. Učíme se poznat, 
 úloha vyžaduje, vybrat vhodný postup a ověřit, jestli výsledek dává smysl.
 To je dovednost, která zůstává i po skončení konkrétní kapitoly.
 
+Můžeme začít úplně od základů, navázat na učivo základní nebo střední školy,
+připravit se na přijímací zkoušky či maturitu, nebo řešit matematiku na
+vysokoškolské a profesní úrovni. Důležité je, kde právě jste a kam se chcete
+dostat.
+
 ## <span id="misto">Výuka v Clubco Praha – Nupaky</span>
 
 Výuka probíhá v [Clubco Praha – Nupaky](https://clubco.cz/praha/),
