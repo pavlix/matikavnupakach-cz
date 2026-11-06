@@ -8,3 +8,20 @@
   $text-on-dark: #1d1d1f,
   $text-on-dark-secondary: #1d1d1f
 );
+
+a.button,
+button.button {
+  border-color: #f2c419;
+  background-color: #f2c419;
+  color: #1d1d1f;
+
+  &:hover {
+    border-color: #d6a900;
+    background-color: #d6a900;
+    color: #1d1d1f;
+  }
+}
+
+footer .container {
+  color: #fffef8;
+}
