@@ -7,11 +7,11 @@ copyrightName: "Pavel Šimerda"
 copyrightUrl: "https://simerda.eu"
 lang: "cs"
 description: >-
-  Pomáhám dětem a studentům porozumět matematice, najít v ní souvislosti a
-  postupně získat jistotu při řešení úloh.
+  Doučování matematiky v Nupakách. Společně hledáme souvislosti, porozumění a
+  jistotu při řešení úloh.
 sections:
-  - name: "Místo"
-    url: "#misto"
+  - name: "O mně"
+    url: "#o-mne"
   - name: "Kontakt"
     url: "#kontakt"
 ---
@@ -20,61 +20,58 @@ sections:
   <img class="hero-photo" src="/pavel-simerda.jpg" alt="Pavel Šimerda" />
 
   <div class="hero-text">
-    <p class="hero-kicker">Doučování matematiky</p>
+    <p class="hero-kicker">Doučování matematiky v Nupakách</p>
 
-## Matematika, které začneme rozumět.
+## Když matematika začne dávat smysl.
 
-Pomáhám dětem a studentům najít v matematice systém, souvislosti a vlastní
-způsob přemýšlení. Když látka začne dávat smysl, jistota a rutina přijdou
-postupně s procvičováním.
+Společně hledáme souvislosti, které ve školním tempu často zaniknou. Jakmile
+pochopíme, co se v úloze skutečně děje, přichází jistota a postupně také rutina.
 
-<a class="button" href="#kontakt">Domluvit úvodní rozhovor</a>
+<a class="button" href="#kontakt">Napsat o doučování</a>
   </div>
 </div>
 
 ## Jak pracujeme
 
-Matematiku nevnímám jako soubor izolovaných triků. Společně hledáme, jak spolu
-jednotlivé věci souvisejí, proč určitý postup funguje a jak si při řešení
-vybudovat vlastní oporu. Nejdřív přichází pochopení a porozumění, potom
-procvičování. Rutina vzniká až jako důsledek toho, že věcem opravdu rozumíme.
+Začínáme tím, co student potřebuje pochopit. Může jít o jednu konkrétní látku,
+mezery, které se postupně nabalily, přípravu na písemku nebo důležitou zkoušku.
+Nejdřív si vytvoříme pevnou představu o tom, jak věci fungují a jak spolu
+souvisejí. Teprve potom přidáváme příklady a procvičování.
+
+Tak se neučíme pouze správné kroky pro jeden typ úlohy. Učíme se poznat, co
+úloha vyžaduje, vybrat vhodný postup a ověřit, jestli výsledek dává smysl.
+To je dovednost, která zůstává i po skončení konkrétní kapitoly.
 
 ## <span id="misto">Výuka v Clubco Praha – Nupaky</span>
 
-Doučování probíhá v [Clubco Praha – Nupaky](https://clubco.cz/praha/),
-profesionálním coworkingovém prostoru na okraji Prahy. Není to domácí úkol u
-kuchyňského stolu ani další školní lavice. Přicházíme na místo, které je určené
-pro soustředěnou práci, a výuku tak můžeme oddělit od domácího stresu i běžných
-vyrušení.
+Výuka probíhá v [Clubco Praha – Nupaky](https://clubco.cz/praha/),
+profesionálním coworkingovém prostoru na okraji Prahy. Je to místo pro práci,
+setkávání a soustředění, takže doučování má jasný začátek i konec a nemusí se
+ztrácet v domácím provozu.
 
-Clubco je dobře dostupné z Prahy i okolí, leží u dálnice D1 a nabízí dostatek
-parkovacích míst zdarma. Pro rodiče to znamená praktické místo pro předání a
-vyzvednutí, pro studenty profesionální prostředí, ve kterém se mohou soustředit
-na vlastní práci.
+Clubco je dobře dostupné z Prahy i okolí, leží u dálnice D1 a má parkování
+zdarma. Pro rodiče je to praktické místo k předání a vyzvednutí, pro studenty
+prostředí, které podporuje samostatnou práci a soustředění.
 
-## Kdo vás bude učit
+## <span id="o-mne">Kdo vás bude učit</span>
 
-Jsem programátor a lektor, který se vzdělávání věnuje prakticky celý život.
-S doučováním jsem začal pomáhat spolužákům už na škole a k pravidelné placené
-výuce jsem se dostal kolem roku 2001. Od té doby jsem učil jednotlivce,
-skupiny, děti i dospělé a podílel se na školních i vzdělávacích projektech.
+Jsem Pavel Šimerda, programátor a lektor. Vzdělávání se věnuji prakticky celý
+život. S doučováním jsem začal pomáhat spolužákům už na škole a k pravidelné
+placené výuce jsem se dostal kolem roku 2001.
 
-Do výuky přináším nadhled člověka, který nestojí jen v jedné školské bublině.
+Od té doby jsem učil jednotlivce i skupiny, děti i dospělé, a podílel se na
+školních a vzdělávacích projektech. Do výuky přináším pohled člověka, který se
+pohybuje mezi technologiemi, školami a různými způsoby učení.
+
 Zajímá mě, jak lidé přemýšlejí, kde se při učení ztrácejí a co jim pomůže
 postavit se na vlastní nohy. Věřím, že dobrá výuka stojí na spolupráci,
-důvěře a možnosti ptát se bez obav.
+důvěře a možnosti ptát se bez obav. Více o mém přístupu ke vzdělávání najdete
+na [EduSkills.cz](https://eduskills.cz/tym/grumpy/).
 
-Více o mém přístupu ke vzdělávání najdete na [EduSkills.cz](https://eduskills.cz/tym/grumpy/).
+## <span id="kontakt">Domluvme se</span>
 
-## <span id="kontakt">Začněme rozhovorem</span>
+Každý student přichází s jinou situací. Napište mi, co právě řešíte, v jakém
+ročníku student je a zda hledáte jednorázovou pomoc, přípravu na zkoušku nebo
+pravidelné doučování. Ozvu se a společně zjistíme, co bude dávat smysl.
 
-Než se domluvíme na pravidelných lekcích, potřebujeme si ujasnit, co student
-potřebuje, s čím se potýká a co by mu nejvíc pomohlo. Napište mi několik vět
-o situaci a domluvíme se na dalším postupu.
-
-## Kontakt
-
-<p><a href="mailto:teaching@simerda.eu">teaching@simerda.eu</a></p>
-
-<p>Do zprávy můžete uvést ročník, témata, která řešíte, a zda hledáte krátkou
-přípravu na konkrétní zkoušku nebo dlouhodobější podporu.</p>
+✉️ <a href="mailto:teaching@simerda.eu">teaching@simerda.eu</a>
