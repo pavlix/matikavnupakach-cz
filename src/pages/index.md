@@ -14,6 +14,8 @@ sections:
     url: "#pristup"
   - name: "Nabídka"
     url: "#nabidka"
+  - name: "Místo"
+    url: "#misto"
   - name: "O mně"
     url: "#o-mne"
   - name: "Kontakt"
@@ -53,6 +55,21 @@ vybudovat vlastní oporu.
   <li><strong>Slovní úlohy a samostatné řešení</strong><br />Zaměříme se na porozumění zadání, práci s informacemi a kontrolu výsledku.</li>
   <li><strong>Přijímací zkoušky a důležité přechody</strong><br />Postupně doplníme potřebné základy a získáme jistotu v tématech, která budou rozhodovat.</li>
 </ul>
+
+## <span id="misto">Výuka v Clubco Praha – Nupaky</span>
+
+Doučování probíhá v [Clubco Praha – Nupaky](https://clubco.cz/praha/),
+profesionálním coworkingovém prostoru na okraji Prahy. Není to domácí úkol u
+kuchyňského stolu ani další školní lavice. Přicházíme na místo, které je určené
+pro soustředěnou práci, a výuku tak můžeme oddělit od domácího stresu i běžných
+vyrušení.
+
+Clubco je dobře dostupné z Prahy i okolí, leží u dálnice D1 a nabízí dostatek
+parkovacích míst zdarma. Pro rodiče to znamená praktické místo pro předání a
+vyzvednutí, pro studenty profesionální prostředí, ve kterém se mohou soustředit
+na vlastní práci.
+
+<a class="button button-alt" href="https://clubco.cz/praha/">Podívat se na Clubco Praha</a>
 
 ## <span id="o-mne">Kdo vás bude učit</span>
 
