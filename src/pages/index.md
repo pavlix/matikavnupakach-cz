@@ -75,3 +75,33 @@ ročníku student je a zda hledáte jednorázovou pomoc, přípravu na zkoušku 
 pravidelné doučování. Ozvu se a společně zjistíme, co bude dávat smysl.
 
 ✉️ <a href="mailto:teaching@simerda.eu">teaching@simerda.eu</a>
+
+<form class="contact-form" name="doučování" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+<input type="hidden" name="form-name" value="doučování" />
+<p class="form-honeypot">
+  <label>Leave this field empty: <input name="bot-field" /></label>
+</p>
+
+<label><span>Jméno <span class="required">*</span></span>
+<input type="text" name="name" required />
+</label>
+
+<label><span>E-mail <span class="required">*</span></span>
+<input type="email" name="email" required />
+</label>
+
+<label><span>Telefon</span>
+<input type="tel" name="phone" />
+</label>
+
+<label><span>Ročník nebo úroveň</span>
+<input type="text" name="level" />
+</label>
+
+<label><span>S čím potřebujete pomoci?</span>
+<textarea name="message" rows="6"></textarea>
+</label>
+
+<button class="button" type="submit">Odeslat poptávku</button>
+
+</form>
