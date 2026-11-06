@@ -10,7 +10,7 @@ description: >-
   Doučování matematiky v Nupakách. Společně hledáme souvislosti, porozumění a
   jistotu při řešení úloh.
 sections:
-  - name: "O mně"
+  - name: "Lektor"
     url: "#o-mne"
   - name: "Kontakt"
     url: "#kontakt"
@@ -53,7 +53,7 @@ Clubco je dobře dostupné z Prahy i okolí, leží u dálnice D1 a má parková
 zdarma. Pro rodiče je to praktické místo k předání a vyzvednutí, pro studenty
 prostředí, které podporuje samostatnou práci a soustředění.
 
-## <span id="o-mne">Kdo vás bude učit</span>
+## <span id="o-mne">Kdo bude doučovat</span>
 
 Jsem Pavel Šimerda, programátor a lektor. Vzdělávání se věnuji prakticky celý
 život. S doučováním jsem začal pomáhat spolužákům už na škole a k pravidelné
