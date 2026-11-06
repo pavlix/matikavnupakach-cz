@@ -44,14 +44,14 @@ Matematiku nevnímám jako soubor izolovaných triků. Společně hledáme, jak 
 jednotlivé věci souvisejí, proč určitý postup funguje a jak si při řešení
 vybudovat vlastní oporu.
 
-<p class="principle">
+<p>
   Nejdřív pochopení a porozumění. Potom procvičování. Rutina vzniká až jako
   důsledek toho, že věcem opravdu rozumíme.
 </p>
 
 ## <span id="nabidka">S čím můžeme pracovat</span>
 
-<ul class="offer-list">
+<ul>
   <li><strong>Učivo, které ve škole nedává smysl</strong><br />Vrátíme se k základům, najdeme mezeru a vysvětlíme si látku jiným způsobem.</li>
   <li><strong>Příprava na písemky a zkoušení</strong><br />Nejen projdeme typové příklady. Ujasníme si, co se v nich děje a jak poznat správný postup.</li>
   <li><strong>Slovní úlohy a samostatné řešení</strong><br />Zaměříme se na porozumění zadání, práci s informacemi a kontrolu výsledku.</li>
@@ -93,13 +93,9 @@ Než se domluvíme na pravidelných lekcích, potřebujeme si ujasnit, co studen
 potřebuje, s čím se potýká a co by mu nejvíc pomohlo. Napište mi několik vět
 o situaci a domluvíme se na dalším postupu.
 
-<div class="contact-box">
-
-<p><strong>Kontakt</strong></p>
+## Kontakt
 
 <p><a href="mailto:teaching@simerda.eu">teaching@simerda.eu</a></p>
 
 <p>Do zprávy můžete uvést ročník, témata, která řešíte, a zda hledáte krátkou
 přípravu na konkrétní zkoušku nebo dlouhodobější podporu.</p>
-
-</div>
