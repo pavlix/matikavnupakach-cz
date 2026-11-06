@@ -1,0 +1,19 @@
+---
+import Base from "../../vendor/web-common/src/layouts/Base.astro";
+import "../styles/main.scss";
+
+const { frontmatter } = Astro.props;
+---
+
+<Base
+  title={`${frontmatter.title}: ${frontmatter.siteTitle}`}
+  siteTitle={frontmatter.siteTitle}
+  copyrightYear={frontmatter.copyrightYear}
+  copyrightName={frontmatter.copyrightName}
+  copyrightUrl={frontmatter.copyrightUrl}
+  lang={frontmatter.lang}
+  description={frontmatter.description}
+  sections={frontmatter.sections}
+>
+  <slot />
+</Base>

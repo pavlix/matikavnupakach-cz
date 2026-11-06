@@ -1,0 +1,3 @@
+[submodule "vendor/web-common"]
+	path = vendor/web-common
+	url = https://github.com/pavlix/web-common.git
