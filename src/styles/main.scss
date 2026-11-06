@@ -7,10 +7,6 @@
   $header-bg: #3b3156
 );
 
-article {
-  max-width: 48rem;
-}
-
 .hero {
   padding: 2.5rem 0 1rem;
 }
@@ -25,16 +21,13 @@ article {
 
 .hero h2 {
   border: 0;
-  font-size: clamp(2.2rem, 8vw, 4.5rem);
-  line-height: 1.05;
+  font-size: clamp(1.8rem, 1.2rem + 2.5vw, 3.2rem);
+  line-height: 1.1;
   margin: 0.35rem 0 1.25rem;
-  max-width: 11ch;
   padding: 0;
 }
 
-.hero-lead {
-  color: #5a5664;
-  font-size: 1.2rem;
+.hero-text {
   max-width: 38rem;
 }
 
@@ -83,7 +76,7 @@ article {
 
 @media (min-width: 768px) {
   .hero {
-    padding-top: 4.5rem;
+    padding-top: 3.5rem;
   }
 
   .principle {

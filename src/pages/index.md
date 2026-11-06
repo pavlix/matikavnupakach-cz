@@ -23,17 +23,21 @@ sections:
 ---
 
 <div class="hero">
-  <p class="hero-kicker">Doučování matematiky</p>
+  <img class="hero-photo" src="/pavel-simerda.jpg" alt="Pavel Šimerda" />
 
-  <h2>Matematika, které začneme rozumět.</h2>
+  <div class="hero-text">
+    <p class="hero-kicker">Doučování matematiky</p>
 
-  <p class="hero-lead">
-    Pomáhám dětem a studentům najít v matematice systém, souvislosti a vlastní
-    způsob přemýšlení. Když látka začne dávat smysl, jistota a rutina přijdou
-    postupně s procvičováním.
-  </p>
+    <h2>Matematika, které začneme rozumět.</h2>
 
-  <p><a class="button" href="#kontakt">Domluvit úvodní rozhovor</a></p>
+    <p>
+      Pomáhám dětem a studentům najít v matematice systém, souvislosti a vlastní
+      způsob přemýšlení. Když látka začne dávat smysl, jistota a rutina přijdou
+      postupně s procvičováním.
+    </p>
+
+    <p><a class="button" href="#kontakt">Domluvit úvodní rozhovor</a></p>
+  </div>
 </div>
 
 ## <span id="pristup">Nejdřív porozumění</span>
