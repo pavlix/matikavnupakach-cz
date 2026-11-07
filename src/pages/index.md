@@ -10,15 +10,20 @@ description: >-
   Doučování matematiky v Nupakách. Společně hledáme souvislosti, porozumění a
   jistotu při řešení úloh.
 sections:
+  - name: "Doučování"
+    url: "#doucovani"
   - name: "Kontakt"
     url: "#kontakt"
 ---
 
-<div class="hero">
-  <img class="hero-photo" src="/pavel-simerda.jpg" alt="Pavel Šimerda" />
+<div id="doucovani" class="hero-dark">
+<div class="hero container">
+<div class="hero-photo-wrap">
+<img class="hero-photo" src="/pavel-simerda.jpg" alt="Pavel Šimerda" />
+</div>
 
-  <div class="hero-text">
-    <p class="hero-kicker">Doučování matematiky v Nupakách</p>
+<div class="hero-text">
+<p class="hero-kicker">Doučování matematiky v Nupakách</p>
 
 ## Když matematika začne dávat smysl.
 
@@ -26,7 +31,9 @@ Společně hledáme souvislosti, které ve školním tempu často zaniknou. Jakm
 pochopíme, co se v úloze skutečně děje, přichází jistota a postupně také rutina.
 
 <a class="button" href="#kontakt">Napsat o doučování</a>
-  </div>
+
+</div>
+</div>
 </div>
 
 ## Jak pracujeme

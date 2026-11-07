@@ -1,27 +1,71 @@
 @use "../../vendor/web-common/src/styles/common" with (
-  $accent-color: #1d1d1f,
-  $text-emphasis: #9b7100,
-  $page-bg: #fbfaf4,
-  $text-primary: #242426,
-  $text-secondary: #555452,
-  $header-bg: #d6a900,
-  $text-on-dark: #1d1d1f,
-  $text-on-dark-secondary: #1d1d1f
+  $accent-color: #806018,
+  $text-emphasis: #986f18,
+  $page-bg: #fbf8ed,
+  $text-primary: #342b16,
+  $text-secondary: #625535,
+  $header-bg: #765812,
+  $text-on-dark: #fffaf0,
+  $text-on-dark-secondary: #f6d978
 );
 
 a.button,
 button.button {
-  border-color: #d6a900;
-  background-color: #d6a900;
-  color: #1d1d1f;
+  border-color: #edc45a;
+  background-color: #edc45a;
+  color: #342b16;
 
   &:hover {
-    border-color: #b58900;
-    background-color: #b58900;
-    color: #1d1d1f;
+    border-color: #d9a92f;
+    background-color: #d9a92f;
+    color: #342b16;
   }
 }
 
 footer .container {
   color: #fffef8;
+}
+
+.hero-photo-wrap {
+  order: 2;
+  flex: 1 1 10rem;
+  max-width: 17rem;
+  width: 100%;
+  margin-top: 1rem;
+  position: relative;
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 25%,
+    black 75%,
+    transparent
+  );
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 25%,
+    black 75%,
+    transparent
+  );
+
+  @media (min-width: 768px) {
+    align-self: flex-start;
+  }
+}
+
+.hero-photo {
+  mask-image: linear-gradient(
+    to bottom,
+    transparent,
+    black 25%,
+    black 75%,
+    transparent
+  );
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent,
+    black 25%,
+    black 75%,
+    transparent
+  );
 }

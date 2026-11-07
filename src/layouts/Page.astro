@@ -14,6 +14,8 @@ const { frontmatter } = Astro.props;
   lang={frontmatter.lang}
   description={frontmatter.description}
   sections={frontmatter.sections}
+  showHeader={false}
+  hamburgerNav={false}
 >
   <slot />
 </Base>
